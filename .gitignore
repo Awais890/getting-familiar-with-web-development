@@ -1,2 +1,5 @@
 .gitignore
-example/
+.*
+/example
+introduction/example/
+/github/
